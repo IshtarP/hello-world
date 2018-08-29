@@ -1,2 +1,6 @@
 # hello-world
-hello world activity
+
+Hello,
+
+I like to code, watch movies and play video games!!!
+
